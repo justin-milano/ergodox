@@ -1,7 +1,7 @@
 {
     "header": {
         "Name": "MDErgo1",
-        "Layout": "Default",
+        "Layout": "qu4s",
         "Base": "Blank",
         "Version": "0.1",
         "Author": "HaaTa (Jacob Alexander) 2015",
@@ -425,6 +425,10 @@
                 "0": {
                     "key": "PAGEDOWN",
                     "label": "PGDN"
+                },
+                "2": {
+                    "key": "CONS:VOLUMEUP",
+                    "label": "VOL+"
                 }
             }
         },
@@ -438,6 +442,10 @@
                 "0": {
                     "key": "HOME",
                     "label": "HOME"
+                },
+                "2": {
+                    "key": "CONS:VOLUMEDOWN",
+                    "label": "VOL-"
                 }
             }
         },
