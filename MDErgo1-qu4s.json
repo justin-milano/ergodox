@@ -18,12 +18,12 @@
             "h": 4,
             "layers": {
                 "0": {
-                    "key": "EQUAL",
-                    "label": "="
+                    "key": "6",
+                    "label": "6"
                 },
                 "1": {
-                    "key": "F11",
-                    "label": "F11"
+                    "key": "F6",
+                    "label": "F6"
                 }
             }
         },
@@ -308,6 +308,10 @@
                 "0": {
                     "key": "LCK2",
                     "label": "LOCK-2"
+                },
+                "2": {
+                    "key": "LCK1",
+                    "label": "LOCK-1"
                 }
             }
         },
@@ -423,8 +427,8 @@
             "h": 4,
             "layers": {
                 "0": {
-                    "key": "PAGEDOWN",
-                    "label": "PGDN"
+                    "key": "HOME",
+                    "label": "HOME"
                 },
                 "2": {
                     "key": "CONS:VOLUMEUP",
@@ -440,8 +444,8 @@
             "h": 4,
             "layers": {
                 "0": {
-                    "key": "HOME",
-                    "label": "HOME"
+                    "key": "END",
+                    "label": "END"
                 },
                 "2": {
                     "key": "CONS:VOLUMEDOWN",
@@ -552,8 +556,8 @@
             "h": 4,
             "layers": {
                 "0": {
-                    "key": "FUN1",
-                    "label": "\u01921"
+                    "key": "FUN2",
+                    "label": "\u01922"
                 },
                 "1": {
                     "key": "F12",
@@ -569,12 +573,12 @@
             "h": 4,
             "layers": {
                 "0": {
-                    "key": "6",
-                    "label": "6"
+                    "key": "7",
+                    "label": "7"
                 },
                 "1": {
-                    "key": "F6",
-                    "label": "F6"
+                    "key": "F7",
+                    "label": "F7"
                 }
             }
         },
@@ -586,12 +590,12 @@
             "h": 4,
             "layers": {
                 "0": {
-                    "key": "7",
-                    "label": "7"
+                    "key": "8",
+                    "label": "8"
                 },
                 "1": {
-                    "key": "F7",
-                    "label": "F7"
+                    "key": "F8",
+                    "label": "F8"
                 },
                 "2": {
                     "key": "NUMLOCK",
@@ -607,12 +611,12 @@
             "h": 4,
             "layers": {
                 "0": {
-                    "key": "8",
-                    "label": "8"
+                    "key": "9",
+                    "label": "9"
                 },
                 "1": {
-                    "key": "F8",
-                    "label": "F8"
+                    "key": "F9",
+                    "label": "F9"
                 },
                 "2": {
                     "key": "P\/",
@@ -628,12 +632,12 @@
             "h": 4,
             "layers": {
                 "0": {
-                    "key": "9",
-                    "label": "9"
+                    "key": "0",
+                    "label": "0"
                 },
                 "1": {
-                    "key": "F9",
-                    "label": "F9"
+                    "key": "F10",
+                    "label": "F10"
                 },
                 "2": {
                     "key": "P*",
@@ -649,12 +653,12 @@
             "h": 4,
             "layers": {
                 "0": {
-                    "key": "0",
-                    "label": "0"
+                    "key": "MINUS",
+                    "label": "-"
                 },
                 "1": {
-                    "key": "F10",
-                    "label": "F10"
+                    "key": "F11",
+                    "label": "F11"
                 },
                 "2": {
                     "key": "P-",
@@ -670,8 +674,8 @@
             "h": 4,
             "layers": {
                 "0": {
-                    "key": "MINUS",
-                    "label": "-"
+                    "key": "EQUAL",
+                    "label": "="
                 },
                 "1": {
                     "key": "#:flashMode()",
@@ -904,6 +908,10 @@
             "h": 4,
             "layers": {
                 "0": {
+                    "key": "LCK2",
+                    "label": "LOCK-2"
+                },
+                "2": {
                     "key": "LCK1",
                     "label": "LOCK-1"
                 }
@@ -930,8 +938,8 @@
             "h": 6,
             "layers": {
                 "0": {
-                    "key": "FUN2",
-                    "label": "\u01922"
+                    "key": "FUN1",
+                    "label": "\u01921"
                 }
             }
         },
@@ -1050,8 +1058,8 @@
             "h": 4,
             "layers": {
                 "0": {
-                    "key": "END",
-                    "label": "END"
+                    "key": "PAGEDOWN",
+                    "label": "PGDN"
                 }
             }
         },
