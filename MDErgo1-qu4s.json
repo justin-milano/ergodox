@@ -9,6 +9,12 @@
         "Date": "2015-09-12",
         "Generator": "KIICONF 0.2"
     },
+    "defines": [
+        {
+            "name": "MinDebounceTime",
+            "value": "7"
+        }
+    ],
     "matrix": [
         {
             "code": "0x02",
